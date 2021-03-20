@@ -12,7 +12,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   * [Javascript](#javascript)
   * [PHP](#php)
   * [Python](#python)
-  * [R](#r)
+  * [r](#r)
   * [Ruby](#ruby)
   * [UX](#ux)
 * [General](#general)
